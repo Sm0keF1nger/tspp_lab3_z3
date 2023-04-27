@@ -1,0 +1,15 @@
+E:\repository\lab3_z3\bin\Debug\net6.0\lab3_z3.exe
+E:\repository\lab3_z3\bin\Debug\net6.0\lab3_z3.deps.json
+E:\repository\lab3_z3\bin\Debug\net6.0\lab3_z3.runtimeconfig.json
+E:\repository\lab3_z3\bin\Debug\net6.0\lab3_z3.dll
+E:\repository\lab3_z3\bin\Debug\net6.0\lab3_z3.pdb
+E:\repository\lab3_z3\obj\Debug\net6.0\lab3_z3.csproj.AssemblyReference.cache
+E:\repository\lab3_z3\obj\Debug\net6.0\lab3_z3.GeneratedMSBuildEditorConfig.editorconfig
+E:\repository\lab3_z3\obj\Debug\net6.0\lab3_z3.AssemblyInfoInputs.cache
+E:\repository\lab3_z3\obj\Debug\net6.0\lab3_z3.AssemblyInfo.cs
+E:\repository\lab3_z3\obj\Debug\net6.0\lab3_z3.csproj.CoreCompileInputs.cache
+E:\repository\lab3_z3\obj\Debug\net6.0\lab3_z3.dll
+E:\repository\lab3_z3\obj\Debug\net6.0\refint\lab3_z3.dll
+E:\repository\lab3_z3\obj\Debug\net6.0\lab3_z3.pdb
+E:\repository\lab3_z3\obj\Debug\net6.0\lab3_z3.genruntimeconfig.cache
+E:\repository\lab3_z3\obj\Debug\net6.0\ref\lab3_z3.dll
